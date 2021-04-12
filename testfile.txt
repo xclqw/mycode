@@ -1,0 +1,4 @@
+
+megaparty= [4, "cases of soda", 39.4, "how much cheese"]
+
+print(f"We need {megaparty[0]} {megaparty[1]}. {megaparty[3].capitalize}? {megaparty[2]}slices? It was awesome.")
